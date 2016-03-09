@@ -30,3 +30,5 @@ sample usages
   log.hideTime(); // hide time in logs
   
 ```
+ sample
+ ![sample](images/sample.png)
