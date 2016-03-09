@@ -8,6 +8,8 @@ to add library to your project
 ```
 sample usages
 ```js
+  log.show(); // show custom console, within your website
+
   log.d("your messgae"); // print debug message
   log.d("tag name","your messgae"); // print debug message
   
@@ -23,8 +25,6 @@ sample usages
   
   log.exclude("tag name1","tag name2"...); // after this line, logs with tags specified will not work
   log.include("tag name","tag name2"...);  // after this line, only shows logs with tags specified
-  
-  log.show(); // show custom console, within your website
   
   log.showTime(); // show time in logs
   log.hideTime(); // hide time in logs
