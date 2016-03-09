@@ -1,0 +1,2 @@
+# LogBoxJS
+Javascript Logging
